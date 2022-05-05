@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/chinawangyu/protoc-gen-go-errors/v2/errors"
 	"strings"
 
-	"github.com/go-kratos/kratos/cmd/protoc-gen-go-errors/v2/errors"
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/proto"
 )
