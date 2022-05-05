@@ -1,4 +1,4 @@
-module github.com/chinawangyu/protoc-gen-go-errors/v2
+module github.com/chinawangyu/protoc-gen-go-errors/v4
 
 go 1.16
 
