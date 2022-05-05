@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/chinawangyu/protoc-gen-go-errors/v2/errors"
+	"github.com/chinawangyu/protoc-gen-go-errors/v4/errors"
 	"strings"
 
 	"google.golang.org/protobuf/compiler/protogen"
